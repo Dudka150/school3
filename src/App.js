@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import SkillCard from './Competents';
-import CompetenceList from './CompetenceList';
+import SkillCard from './Components/Competents';
+import CompetenceList from './Components/CompetenceList';
 
 function App() {
   const [showCompetences, setShowCompetences] = useState(false);

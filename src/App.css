@@ -63,3 +63,17 @@
 .skills-want .skill-card {
   margin: 10px;
 }
+
+.button_skills{
+  text-align: center;
+}
+
+.skill-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.skill-description {
+  font-size: 14px;
+}
